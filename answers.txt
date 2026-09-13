@@ -5,3 +5,8 @@ Answer: Keep track of our changes and collaborate with others
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Statistics
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merge preserves exact history of both branches by creating a new merge commit, 
+while rebase moves base of your feature branch to the newest commit on the target branch
